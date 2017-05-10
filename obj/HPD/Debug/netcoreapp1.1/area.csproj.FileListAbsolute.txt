@@ -1,0 +1,8 @@
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\area\bin\HPD\Debug\netcoreapp1.1\area.deps.json
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\area\bin\HPD\Debug\netcoreapp1.1\area.runtimeconfig.json
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\area\bin\HPD\Debug\netcoreapp1.1\area.runtimeconfig.dev.json
+c:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\area\obj\HPD\Debug\netcoreapp1.1\area.AssemblyInfo.cs
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\area\bin\HPD\Debug\netcoreapp1.1\area.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\area\bin\HPD\Debug\netcoreapp1.1\area.pdb
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\area\obj\HPD\Debug\netcoreapp1.1\area.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\area\obj\HPD\Debug\netcoreapp1.1\area.pdb
