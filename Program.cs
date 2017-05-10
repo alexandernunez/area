@@ -8,7 +8,6 @@ namespace area
     {
         static void Main()
         {
-
             Console.WriteLine("Rectangle area calculator");
 
             Console.WriteLine("Please input the width of the rectangle (without decimals)");
